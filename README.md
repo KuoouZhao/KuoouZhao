@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 🔭 I’m currently working on SQL, Python, R
---> 🌱 I’m currently learning JAVA, PowerBI, Tableau
---> 📫 How to reach me: xinhankzhao1234567@gmail.com
+    🌱 I’m currently learning JAVA, PowerBI, Tableau
+    📫 How to reach me: xinhankzhao1234567@gmail.com
